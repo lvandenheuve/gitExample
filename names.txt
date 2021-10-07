@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss,lvandenheuve,VandenHeuvel,Luke
 employee,mcquaig,McQuaig,Marit
